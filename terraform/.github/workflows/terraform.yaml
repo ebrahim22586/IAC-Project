@@ -1,4 +1,4 @@
-name: "Vprofile IAC"
+name: "GitOps IAC"
 on:
   push:
     branches:
